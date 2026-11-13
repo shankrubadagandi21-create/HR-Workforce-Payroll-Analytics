@@ -1,0 +1,1001 @@
+employee_id,employee_name,department_id,job_title,hire_date,employment_status
+1,Ananya Sharma,12.0,Marketing Specialist,2020-09-30,Active
+2,Kabir Gowda,2.0,Support Executive,2018-12-23,On Leave
+3,Nisha Sharma,1.0,Accountant,2020-06-14,Active
+4,Aarav Desai,4.0,Support Executive,2022-09-15,Active
+5,Rahul Khan,5.0,HR Executive,2026-07-06,Active
+6,Nisha Kulkarni,5.0,Data Analyst,2020-05-31,Active
+7,Ananya Patil,7.0,Accountant,2022-01-10,Active
+8,Rohan Sharma,12.0,Operations Associate,2024-01-06,Active
+9,Aditya Patil,9.0,Marketing Specialist,2025-01-18,On Leave
+10,Kavya Khan,4.0,Accountant,2018-07-07,Resigned
+11,Pooja Shetty,2.0,Sales Executive,2019-02-18,Active
+12,Rohan Joshi,11.0,Software Engineer,2019-10-29,Active
+13,Kavya Gupta,11.0,Marketing Specialist,2025-11-14,Resigned
+14,Vivaan Khan,11.0,Data Analyst,2023-12-28,Resigned
+15,Pooja Pawar,8.0,Team Lead,2021-01-10,Resigned
+16,Pooja Naik,6.0,HR Executive,2020-07-27,Active
+17,Arjun Reddy,5.0,Accountant,2020-05-14,On Leave
+18,Arjun Gupta,11.0,Operations Associate,2022-06-09,Resigned
+19,Rahul Pawar,5.0,Data Analyst,2020-10-07,Resigned
+20,Rohan Gowda,10.0,Team Lead,2024-07-18,Active
+21,Kavya Gupta,3.0,Support Executive,2023-07-15,Active
+22,Diya Patil,3.0,Data Analyst,2025-08-19,Active
+23,Vivaan Reddy,7.0,Research Associate,2023-04-02,On Leave
+24,Rohan Desai,1.0,Accountant,2025-08-24,On Leave
+25,Rohan Naik,6.0,Accountant,2021-04-17,Active
+26,Meera Joshi,1.0,Marketing Specialist,2023-08-13,
+27,Ananya Naik,5.0,Support Executive,2024-10-30,Active
+28,Kabir Kulkarni,3.0,Support Executive,2026-09-25,On Leave
+29,Aarav Khan,6.0,Operations Associate,2018-03-21,Active
+30,Kavya Shetty,4.0,HR Executive,2020-09-13,On Leave
+31,Vivaan Patil,12.0,Operations Associate,2018-10-11,On Leave
+32,Kabir Pawar,11.0,Operations Associate,2024-03-01,Active
+33,Rohan Desai,10.0,Team Lead,2020-05-17,On Leave
+34,Ishaan Gowda,5.0,Team Lead,2025-07-14,Resigned
+35,Kavya Joshi,9.0,Operations Associate,2019-05-11,Active
+36,Pooja Patil,6.0,HR Executive,2024-08-06,On Leave
+37,Pooja Khan,4.0,HR Executive,2018-10-18,Resigned
+38,Diya Gupta,2.0,HR Executive,2021-09-15,Active
+39,Pooja Shetty,11.0,Operations Associate,2020-05-27,On Leave
+40,Kabir Gowda,10.0,Research Associate,2023-04-21,Active
+41,Priya Reddy,4.0,Accountant,2019-02-02,Resigned
+42,Nisha Kulkarni,7.0,Team Lead,2023-03-28,Resigned
+43,Diya Naik,11.0,Accountant,2018-09-06,Active
+44,Arjun Patil,4.0,Sales Executive,2020-02-19,On Leave
+45,Rahul Pawar,7.0,Data Analyst,2021-02-14,Active
+46,Pooja Patil,8.0,Support Executive,2019-02-06,Active
+47,Aarav Patil,4.0,Data Analyst,2022-07-23,Active
+48,Priya Gupta,7.0,HR Executive,2019-11-06,Active
+49,Aarav Reddy,5.0,Operations Associate,2021-03-14,Active
+50,Priya Pawar,4.0,Marketing Specialist,2020-06-10,Active
+51,Diya Gowda,6.0,HR Executive,2018-07-25,On Leave
+52,Priya Desai,9.0,Data Analyst,2018-08-21,On Leave
+53,Vivaan Pawar,2.0,Research Associate,2018-10-06,Resigned
+54,Pooja Reddy,2.0,Research Associate,2020-10-05,On Leave
+55,Diya Khan,2.0,Team Lead,2025-05-16,On Leave
+56,Arjun Shetty,4.0,Software Engineer,2020-09-04,Active
+57,Aditya Pawar,11.0,Marketing Specialist,2023-02-16,Active
+58,Vivaan Sharma,8.0,Research Associate,2024-04-25,Active
+59,Vivaan Desai,4.0,Support Executive,2020-12-22,Active
+60,Kavya Patil,4.0,Software Engineer,2021-03-13,Active
+61,Rahul Desai,12.0,Marketing Specialist,2024-11-10,Resigned
+62,Aarav Naik,9.0,Marketing Specialist,2025-06-10,Active
+63,Kabir Shetty,2.0,Accountant,2026-04-29,On Leave
+64,Kabir Shetty,5.0,Research Associate,2020-05-12,Resigned
+65,Arjun Gupta,11.0,Marketing Specialist,2023-09-02,Active
+66,Rohan Sharma,2.0,Team Lead,2021-02-07,Active
+67,Aarav Kulkarni,3.0,Marketing Specialist,2019-10-24,Resigned
+68,Rahul Desai,12.0,Team Lead,2024-04-16,Active
+69,Ananya Patil,12.0,Data Analyst,2024-02-13,Active
+70,Kavya Khan,9.0,Data Analyst,2022-10-27,Active
+71,Diya Shetty,6.0,HR Executive,,Active
+72,Pooja Naik,2.0,Software Engineer,2026-10-01,On Leave
+73,Nisha Khan,12.0,Data Analyst,2020-08-27,Active
+74,Meera Reddy,1.0,Data Analyst,2026-04-05,Active
+75,Nisha Naik,12.0,Sales Executive,2020-12-28,Active
+76,Ananya Reddy,1.0,Operations Associate,2020-06-30,Active
+77,Rahul Kulkarni,5.0,Sales Executive,2020-07-02,Active
+78,Ishaan Reddy,6.0,Marketing Specialist,2018-10-12,Active
+79,Kavya Naik,9.0,Team Lead,2025-08-15,On Leave
+80,Arjun Sharma,2.0,Marketing Specialist,2020-01-02,On Leave
+81,Rohan Sharma,2.0,Research Associate,2022-11-15,Active
+82,Arjun Reddy,10.0,Support Executive,2019-04-19,Active
+83,Ishaan Shetty,1.0,Team Lead,2018-01-07,On Leave
+84,Ishaan Kulkarni,7.0,Accountant,2025-06-13,Active
+85,Arjun Naik,2.0,Marketing Specialist,2023-09-09,Active
+86,Nisha Kulkarni,7.0,Marketing Specialist,2024-03-20,Active
+87,Ishaan Reddy,11.0,Team Lead,2025-08-06,Resigned
+88,Meera Khan,10.0,Marketing Specialist,2022-07-22,On Leave
+89,Aarav Shetty,5.0,Sales Executive,2022-10-27,On Leave
+90,Arjun Joshi,8.0,Operations Associate,2025-07-30,Active
+91,Priya Gowda,3.0,Accountant,2021-03-08,On Leave
+92,Arjun Patil,4.0,Marketing Specialist,2020-07-09,Active
+93,Kabir Sharma,1.0,Sales Executive,2023-05-01,On Leave
+94,Vivaan Joshi,,Research Associate,2020-03-07,Resigned
+95,Aditya Joshi,7.0,Sales Executive,2019-08-28,Resigned
+96,Aarav Patil,7.0,Sales Executive,2019-12-22,Resigned
+97,Rahul Sharma,9.0,Sales Executive,2019-05-13,Active
+98,Kabir Joshi,11.0,Support Executive,2024-04-08,On Leave
+99,Arjun Joshi,10.0,Support Executive,2022-10-14,On Leave
+100,Rahul Pawar,12.0,Operations Associate,2023-01-18,Active
+101,Pooja Naik,,Support Executive,2023-06-08,Resigned
+102,Pooja Shetty,8.0,Accountant,2026-01-01,Active
+103,Pooja Shetty,6.0,Software Engineer,2024-01-22,Active
+104,Kabir Pawar,4.0,Team Lead,2025-10-13,Active
+105,Ishaan Patil,7.0,Team Lead,2021-09-17,On Leave
+106,Rahul Reddy,1.0,Sales Executive,2022-09-17,Active
+107,Aarav Khan,7.0,Operations Associate,2018-01-25,Active
+108,Sneha Reddy,7.0,Support Executive,2026-05-20,Resigned
+109,Pooja Joshi,4.0,Marketing Specialist,2022-11-21,Active
+110,Aarav Reddy,6.0,Team Lead,2026-02-14,Active
+111,Rahul Pawar,10.0,Support Executive,2018-04-21,Active
+112,Aarav Patil,11.0,Team Lead,2019-07-10,Active
+113,Meera Sharma,5.0,Team Lead,2021-09-02,Active
+114,Rahul Kulkarni,6.0,Team Lead,2021-02-13,Active
+115,Rohan Patil,8.0,HR Executive,2026-05-27,On Leave
+116,Diya Kulkarni,4.0,Accountant,2026-10-05,Resigned
+117,Diya Sharma,4.0,Sales Executive,2018-03-25,On Leave
+118,Kabir Gupta,3.0,Operations Associate,2025-07-05,Active
+119,Ishaan Joshi,12.0,Marketing Specialist,2026-08-08,Active
+120,Meera Khan,10.0,Accountant,2026-09-21,Active
+121,Sneha Patil,10.0,HR Executive,2021-07-01,On Leave
+122,Aditya Reddy,12.0,Sales Executive,2018-11-08,On Leave
+123,Pooja Patil,12.0,,2025-09-03,On Leave
+124,Ananya Khan,1.0,Software Engineer,2023-12-23,Active
+125,Kavya Patil,9.0,Software Engineer,2018-02-21,Active
+126,Priya Patil,7.0,Software Engineer,2025-02-16,Active
+127,Kabir Reddy,3.0,Support Executive,2025-04-18,Active
+128,Priya Joshi,7.0,Research Associate,2021-01-04,Active
+129,Pooja Patil,5.0,Operations Associate,2020-09-25,Active
+130,Aditya Kulkarni,1.0,Operations Associate,2021-08-24,Active
+131,Priya Gupta,6.0,Marketing Specialist,2021-10-26,Active
+132,Rohan Desai,1.0,Support Executive,2020-02-22,Active
+133,Pooja Gowda,7.0,Operations Associate,2024-03-24,Active
+134,Priya Naik,12.0,Operations Associate,2023-01-10,Active
+135,Vivaan Shetty,4.0,Team Lead,2025-10-04,Active
+136,Sneha Naik,10.0,Software Engineer,2023-04-23,On Leave
+137,Kavya Reddy,12.0,Support Executive,2021-09-16,Active
+138,Rahul Shetty,5.0,Marketing Specialist,2020-08-02,Active
+139,Ishaan Kulkarni,2.0,Support Executive,2026-07-19,Resigned
+140,Meera Gupta,4.0,Operations Associate,2021-02-06,Resigned
+141,Sneha Patil,4.0,Marketing Specialist,2020-07-20,Active
+142,Meera Shetty,1.0,Support Executive,2019-06-03,Active
+143,Diya Sharma,9.0,Marketing Specialist,2025-10-27,Active
+144,Priya Patil,1.0,Research Associate,2021-03-10,Active
+145,Priya Joshi,6.0,Data Analyst,2018-07-30,Active
+146,Priya Patil,2.0,Team Lead,2023-07-08,Active
+147,Diya Pawar,3.0,Research Associate,2021-05-29,Active
+148,Pooja Patil,9.0,Team Lead,2024-10-19,On Leave
+149,Pooja Desai,7.0,Operations Associate,2022-12-19,
+150,Nisha Shetty,10.0,Research Associate,2018-09-04,On Leave
+151,Ananya Gupta,11.0,Sales Executive,2020-12-19,Resigned
+152,Vivaan Pawar,4.0,Data Analyst,2024-03-10,Active
+153,Meera Sharma,7.0,Operations Associate,2025-09-24,On Leave
+154,Priya Shetty,1.0,Sales Executive,2021-03-26,Resigned
+155,Sneha Gowda,8.0,Accountant,2025-09-16,Active
+156,Rohan Naik,10.0,Sales Executive,2022-10-08,Active
+157,Pooja Naik,3.0,Marketing Specialist,2019-08-06,Active
+158,Diya Pawar,5.0,Research Associate,2026-05-26,On Leave
+159,Sneha Joshi,2.0,Operations Associate,2025-09-21,Active
+160,Aditya Shetty,9.0,Support Executive,2023-07-16,Active
+161,Vivaan Khan,1.0,Team Lead,2026-03-28,Active
+162,Rohan Sharma,2.0,Sales Executive,2025-07-24,On Leave
+163,Aarav Naik,5.0,Research Associate,2018-06-14,Active
+164,Priya Desai,11.0,Operations Associate,2021-02-13,Active
+165,Nisha Naik,8.0,Accountant,2023-04-10,Active
+166,Nisha Kulkarni,6.0,Accountant,2019-10-21,Active
+167,Nisha Gowda,8.0,Marketing Specialist,2025-06-06,Active
+168,Diya Joshi,2.0,Software Engineer,2020-10-30,Active
+169,Ananya Reddy,9.0,HR Executive,2025-05-17,On Leave
+170,Rahul Reddy,1.0,Sales Executive,2023-10-25,Active
+171,Priya Naik,8.0,HR Executive,2020-04-13,Active
+172,Kabir Shetty,8.0,Operations Associate,2019-05-13,Active
+173,Pooja Gowda,3.0,Marketing Specialist,2024-03-06,Active
+174,Nisha Patil,4.0,Accountant,2023-03-06,Active
+175,Kabir Joshi,12.0,Marketing Specialist,2023-09-16,Resigned
+176,Rohan Reddy,8.0,Operations Associate,2020-09-25,Active
+177,Kabir Reddy,4.0,Research Associate,2023-09-13,Resigned
+178,Kabir Patil,5.0,Team Lead,2021-10-24,On Leave
+179,Rohan Sharma,5.0,Marketing Specialist,2024-08-01,On Leave
+180,Priya Pawar,8.0,Support Executive,2023-06-07,Active
+181,Arjun Desai,9.0,Team Lead,2023-02-09,Active
+182,Ishaan Gowda,4.0,Research Associate,2022-04-18,Active
+183,Nisha Sharma,6.0,Operations Associate,2025-11-28,Active
+184,Aditya Naik,11.0,Data Analyst,2023-07-22,Active
+185,Kabir Desai,10.0,Software Engineer,2019-02-16,Active
+186,Ananya Desai,8.0,HR Executive,2026-02-07,Active
+187,Nisha Naik,3.0,Accountant,2023-04-08,Active
+188,Arjun Khan,12.0,Team Lead,2025-04-15,Active
+189,Arjun Naik,9.0,Team Lead,2021-07-21,Resigned
+190,Priya Desai,1.0,Research Associate,2018-10-08,Active
+191,Sneha Gupta,12.0,Accountant,2022-11-13,Active
+192,Ananya Joshi,3.0,Marketing Specialist,2018-04-29,Active
+193,Arjun Sharma,5.0,Software Engineer,2022-03-16,Active
+194,Kabir Gupta,9.0,Team Lead,2024-05-07,Resigned
+195,Meera Pawar,3.0,Accountant,2024-11-01,Active
+196,Pooja Joshi,10.0,Data Analyst,2020-08-09,Active
+197,Rohan Joshi,5.0,HR Executive,2023-03-21,Active
+198,Meera Patil,8.0,Software Engineer,2024-08-03,Active
+199,Nisha Gowda,5.0,Operations Associate,2021-05-22,Active
+200,Aditya Joshi,2.0,Sales Executive,2022-04-12,On Leave
+201,Kavya Khan,5.0,Marketing Specialist,2018-03-31,Resigned
+202,Aditya Shetty,1.0,Research Associate,2025-09-10,Resigned
+203,Diya Khan,12.0,Operations Associate,2021-03-18,Active
+204,Kavya Gupta,11.0,Sales Executive,2024-12-18,Active
+205,Kabir Naik,2.0,HR Executive,2021-06-19,Active
+206,Diya Khan,6.0,Data Analyst,2019-01-05,Active
+207,Arjun Gowda,7.0,Data Analyst,2020-04-02,Active
+208,Kavya Desai,9.0,Marketing Specialist,2019-11-05,Active
+209,Priya Shetty,12.0,Software Engineer,2019-04-17,Active
+210,Vivaan Pawar,4.0,,2024-04-01,Active
+211,Vivaan Reddy,1.0,Marketing Specialist,2024-01-07,Active
+212,Rahul Kulkarni,11.0,Marketing Specialist,2024-07-22,Active
+213,Kavya Patil,11.0,Sales Executive,2023-04-16,Active
+214,Arjun Khan,4.0,Accountant,2025-02-15,Active
+215,Sneha Naik,7.0,Accountant,2019-07-27,Active
+216,Diya Shetty,8.0,Accountant,2019-02-03,Active
+217,Kabir Reddy,8.0,Software Engineer,2025-07-09,Resigned
+218,Nisha Khan,12.0,Data Analyst,2022-08-27,Resigned
+219,Ananya Joshi,10.0,Team Lead,2021-02-19,Active
+220,Kavya Gupta,8.0,Operations Associate,2020-08-25,Active
+221,Ananya Naik,6.0,Support Executive,2025-03-26,Active
+222,Diya Reddy,5.0,Sales Executive,2019-05-16,Active
+223,Vivaan Naik,4.0,Research Associate,2018-03-29,Active
+224,Arjun Gupta,3.0,Research Associate,2020-04-20,Active
+225,Ishaan Khan,4.0,Sales Executive,2021-09-07,Active
+226,Aarav Shetty,3.0,Data Analyst,2024-01-22,Active
+227,Meera Patil,11.0,HR Executive,2019-06-24,Active
+228,Kavya Gupta,10.0,Software Engineer,2018-03-06,Active
+229,Rohan Sharma,3.0,Team Lead,2023-11-25,Active
+230,Vivaan Joshi,8.0,Software Engineer,2023-10-04,On Leave
+231,Ananya Joshi,9.0,Sales Executive,2024-11-24,Active
+232,Sneha Joshi,11.0,HR Executive,2018-09-07,Active
+233,Aditya Reddy,11.0,Accountant,2023-07-02,Resigned
+234,Rahul Patil,2.0,Software Engineer,2024-10-27,Active
+235,Vivaan Pawar,5.0,Research Associate,2025-02-06,On Leave
+236,Arjun Reddy,10.0,Support Executive,2021-04-22,Active
+237,Nisha Patil,12.0,Accountant,2025-05-05,Resigned
+238,Ishaan Reddy,8.0,Sales Executive,2022-08-22,Active
+239,Rahul Reddy,7.0,Accountant,2021-07-04,Active
+240,Arjun Naik,5.0,Software Engineer,2019-09-18,Resigned
+241,Priya Patil,2.0,Accountant,2019-01-17,Active
+242,Ananya Gowda,12.0,Software Engineer,2019-06-17,On Leave
+243,Diya Khan,9.0,Support Executive,2021-09-12,Resigned
+244,Ananya Reddy,6.0,Team Lead,2026-02-01,Active
+245,Sneha Khan,5.0,Software Engineer,2019-03-01,On Leave
+246,Ishaan Pawar,11.0,Operations Associate,2020-07-07,Active
+247,Kavya Desai,6.0,Accountant,2026-07-21,Active
+248,Pooja Reddy,9.0,Research Associate,2024-11-18,Resigned
+249,Aarav Khan,11.0,Marketing Specialist,2018-04-29,Active
+250,Rohan Gowda,5.0,Software Engineer,2021-12-08,Active
+251,Meera Pawar,10.0,Team Lead,2018-10-13,Active
+252,Aarav Patil,12.0,Support Executive,2020-05-31,Active
+253,Nisha Joshi,6.0,Data Analyst,2022-02-24,Active
+254,Arjun Khan,10.0,Accountant,2018-08-04,Active
+255,Meera Khan,1.0,Accountant,2021-01-19,Active
+256,Nisha Joshi,10.0,Operations Associate,2022-08-24,Active
+257,Ishaan Desai,2.0,Software Engineer,2022-10-27,Active
+258,Sneha Naik,11.0,Research Associate,2023-06-17,On Leave
+259,Sneha Sharma,4.0,Team Lead,2024-09-20,Active
+260,Aarav Gupta,5.0,Sales Executive,2026-08-10,Active
+261,Rohan Shetty,6.0,Accountant,2018-02-01,Active
+262,Nisha Pawar,3.0,Team Lead,2023-12-22,Resigned
+263,Pooja Desai,9.0,Software Engineer,2018-10-23,Active
+264,Diya Reddy,1.0,Operations Associate,2018-11-15,Active
+265,Nisha Khan,,Team Lead,2021-03-31,Active
+266,Aditya Sharma,6.0,Data Analyst,2024-12-06,Active
+267,Kavya Patil,7.0,Accountant,2020-09-23,Active
+268,Aditya Desai,2.0,Team Lead,2021-06-24,Resigned
+269,Arjun Gupta,6.0,Data Analyst,2018-11-09,On Leave
+270,Ananya Desai,9.0,Sales Executive,2026-09-15,Active
+271,Kavya Gowda,11.0,Data Analyst,2020-08-25,Active
+272,Kabir Shetty,4.0,Data Analyst,2024-10-03,Active
+273,Vivaan Pawar,11.0,Operations Associate,2023-03-16,On Leave
+274,Rahul Naik,10.0,Research Associate,2021-08-16,Resigned
+275,Arjun Pawar,8.0,Accountant,2023-04-05,Active
+276,Sneha Shetty,10.0,HR Executive,2021-12-12,On Leave
+277,Vivaan Shetty,8.0,Operations Associate,2018-06-04,Active
+278,Kavya Shetty,2.0,Accountant,2024-11-24,On Leave
+279,Aditya Joshi,10.0,Support Executive,2026-04-15,Active
+280,Rahul Khan,11.0,Sales Executive,2021-08-09,On Leave
+281,Priya Desai,3.0,HR Executive,2023-01-20,Active
+282,Arjun Gowda,2.0,Support Executive,2025-03-31,Active
+283,Diya Gupta,12.0,Operations Associate,2022-12-05,On Leave
+284,Meera Kulkarni,6.0,Marketing Specialist,2022-05-06,Active
+285,Arjun Naik,10.0,HR Executive,2025-01-28,Resigned
+286,Arjun Patil,6.0,Accountant,2024-04-04,Resigned
+287,Aditya Shetty,5.0,Research Associate,2019-09-08,Active
+288,Vivaan Khan,11.0,Data Analyst,2021-12-03,Active
+289,Aditya Pawar,10.0,Accountant,2021-06-22,On Leave
+290,Aditya Naik,6.0,Data Analyst,2025-07-07,Resigned
+291,Vivaan Naik,11.0,Team Lead,2023-09-14,Active
+292,Aarav Kulkarni,5.0,Data Analyst,2020-05-27,
+293,Priya Gupta,4.0,Data Analyst,2019-09-27,Active
+294,Sneha Patil,9.0,Support Executive,2026-04-14,On Leave
+295,Diya Naik,6.0,Research Associate,2019-06-21,On Leave
+296,Aditya Pawar,3.0,Data Analyst,2025-10-08,On Leave
+297,Meera Gowda,8.0,HR Executive,2022-08-10,Active
+298,Pooja Joshi,10.0,Marketing Specialist,2026-06-09,Resigned
+299,Rahul Gupta,9.0,Sales Executive,2021-06-21,Active
+300,Ishaan Kulkarni,11.0,Research Associate,2022-12-10,Active
+301,Sneha Reddy,9.0,Support Executive,2022-09-11,Active
+302,Ishaan Khan,3.0,Marketing Specialist,2018-08-02,Resigned
+303,Priya Kulkarni,9.0,Accountant,2025-12-23,On Leave
+304,Ananya Shetty,2.0,Data Analyst,2021-01-22,Active
+305,Kabir Reddy,2.0,Sales Executive,2023-01-22,Active
+306,Aarav Reddy,1.0,Team Lead,2023-08-19,Active
+307,Pooja Reddy,2.0,,2020-07-08,Active
+308,Arjun Patil,12.0,Software Engineer,2019-08-22,Active
+309,Diya Shetty,8.0,Data Analyst,2026-07-06,Resigned
+310,Priya Joshi,10.0,HR Executive,2018-11-21,Active
+311,Rohan Gupta,3.0,Support Executive,2026-02-26,On Leave
+312,Nisha Patil,5.0,Sales Executive,2021-05-18,Active
+313,Diya Gupta,7.0,Research Associate,2023-02-16,Active
+314,Ananya Joshi,10.0,Support Executive,2018-03-09,Resigned
+315,Pooja Gowda,3.0,Marketing Specialist,2022-10-25,Active
+316,Kavya Gupta,10.0,Team Lead,2020-02-07,Resigned
+317,Vivaan Desai,6.0,Accountant,2023-11-25,On Leave
+318,Aarav Reddy,8.0,HR Executive,2025-02-16,Active
+319,Kavya Shetty,12.0,HR Executive,2022-01-02,Active
+320,Kavya Gupta,12.0,Accountant,2026-08-27,On Leave
+321,Arjun Pawar,1.0,Software Engineer,2024-02-15,Active
+322,Meera Naik,8.0,Operations Associate,2025-01-31,Active
+323,Kabir Patil,12.0,Operations Associate,2018-06-01,Active
+324,Ishaan Sharma,4.0,HR Executive,2021-07-16,Active
+325,Aditya Desai,8.0,Marketing Specialist,2018-05-30,Resigned
+326,Ishaan Shetty,6.0,HR Executive,2025-05-09,Active
+327,Rohan Patil,6.0,Team Lead,2022-06-27,Resigned
+328,Rahul Reddy,6.0,Data Analyst,2023-07-26,Resigned
+329,Priya Kulkarni,9.0,Marketing Specialist,2018-12-05,Resigned
+330,Nisha Patil,7.0,Research Associate,2020-01-10,On Leave
+331,Sneha Kulkarni,2.0,Accountant,2021-09-05,Resigned
+332,Sneha Shetty,8.0,Research Associate,2026-01-18,Active
+333,Meera Gowda,8.0,Software Engineer,2023-01-06,Active
+334,Kavya Khan,7.0,Marketing Specialist,2025-03-04,Active
+335,Vivaan Naik,11.0,Team Lead,2022-01-28,On Leave
+336,Meera Sharma,3.0,Research Associate,,Active
+337,Diya Pawar,2.0,Sales Executive,2026-09-24,Resigned
+338,Kavya Kulkarni,7.0,Research Associate,2018-05-13,On Leave
+339,Kabir Naik,8.0,Software Engineer,2022-03-04,Active
+340,Vivaan Khan,3.0,Support Executive,2022-02-12,Active
+341,Arjun Naik,5.0,Sales Executive,2019-04-10,Active
+342,Meera Joshi,9.0,Team Lead,2024-04-19,Active
+343,Rohan Shetty,12.0,Operations Associate,2020-05-28,On Leave
+344,Sneha Gowda,8.0,Sales Executive,2019-05-18,Active
+345,Vivaan Joshi,3.0,Operations Associate,2018-12-26,Resigned
+346,Arjun Naik,6.0,Accountant,2024-03-02,
+347,Sneha Shetty,3.0,Data Analyst,2022-01-20,On Leave
+348,Pooja Patil,4.0,Data Analyst,2020-08-27,Active
+349,Aarav Kulkarni,9.0,Research Associate,2022-02-20,Active
+350,Kabir Khan,2.0,Accountant,2021-06-20,Active
+351,Priya Desai,7.0,Team Lead,2024-06-12,Active
+352,Kabir Kulkarni,11.0,Accountant,2023-01-18,Active
+353,Kavya Pawar,9.0,Research Associate,2020-01-16,Active
+354,Nisha Desai,1.0,Accountant,2023-10-24,Active
+355,Sneha Pawar,3.0,Software Engineer,2025-12-15,Active
+356,Kavya Desai,5.0,,2020-10-23,Active
+357,Rohan Pawar,11.0,Marketing Specialist,2024-11-21,On Leave
+358,Vivaan Desai,11.0,Data Analyst,2024-08-21,On Leave
+359,Kabir Pawar,11.0,Research Associate,2026-01-30,On Leave
+360,Arjun Khan,1.0,HR Executive,2018-11-29,Active
+361,Rohan Naik,4.0,Research Associate,2022-09-03,On Leave
+362,Aarav Joshi,11.0,Support Executive,2021-04-01,Resigned
+363,Sneha Joshi,4.0,Team Lead,2021-05-03,Active
+364,Vivaan Gowda,1.0,Data Analyst,2022-12-06,Active
+365,Priya Joshi,4.0,Software Engineer,2024-10-20,Active
+366,Arjun Gowda,6.0,Software Engineer,2022-06-22,Active
+367,Kavya Desai,9.0,Accountant,2021-07-31,Active
+368,Rahul Patil,5.0,Operations Associate,2020-10-12,Active
+369,Ananya Sharma,5.0,Team Lead,2024-11-25,Active
+370,Pooja Pawar,6.0,Research Associate,2026-02-01,Active
+371,Ishaan Pawar,8.0,Support Executive,2023-03-28,Active
+372,Sneha Joshi,1.0,Accountant,2022-05-30,On Leave
+373,Rahul Gupta,4.0,Research Associate,2021-12-16,Active
+374,Diya Shetty,8.0,Research Associate,2025-05-03,Resigned
+375,Priya Shetty,9.0,HR Executive,2019-03-17,Active
+376,Kabir Shetty,12.0,Software Engineer,2026-07-26,Active
+377,Kavya Sharma,7.0,HR Executive,2024-05-24,On Leave
+378,Ishaan Kulkarni,9.0,Marketing Specialist,2018-10-29,Active
+379,Rahul Desai,5.0,Research Associate,2025-08-18,On Leave
+380,Ananya Pawar,2.0,Team Lead,2022-03-09,Active
+381,Kavya Pawar,4.0,Research Associate,2023-09-17,Active
+382,Diya Sharma,1.0,Data Analyst,2026-01-01,Active
+383,Priya Desai,8.0,Data Analyst,2024-10-19,On Leave
+384,Kabir Kulkarni,10.0,Software Engineer,2019-10-28,Active
+385,Sneha Khan,6.0,Support Executive,2023-09-19,On Leave
+386,Priya Gowda,10.0,Marketing Specialist,2023-04-30,Active
+387,Kavya Kulkarni,11.0,Accountant,2022-09-03,On Leave
+388,Sneha Gowda,12.0,HR Executive,2024-09-10,Active
+389,Rohan Naik,10.0,Research Associate,2020-07-21,Resigned
+390,Diya Khan,8.0,Data Analyst,2023-11-18,Resigned
+391,Aditya Pawar,11.0,Sales Executive,2018-05-10,On Leave
+392,Ananya Gupta,1.0,Operations Associate,2021-07-08,Active
+393,Kabir Reddy,12.0,Sales Executive,2022-08-08,On Leave
+394,Priya Gowda,,HR Executive,2025-11-30,Active
+395,Ishaan Desai,6.0,Operations Associate,2023-11-23,Active
+396,Arjun Pawar,8.0,Support Executive,,On Leave
+397,Kavya Naik,12.0,Marketing Specialist,2024-11-03,Active
+398,Ishaan Gupta,5.0,Support Executive,2021-05-07,Active
+399,Sneha Shetty,12.0,Sales Executive,2025-09-28,Resigned
+400,Priya Kulkarni,8.0,Software Engineer,2024-04-14,Resigned
+401,Rohan Shetty,2.0,Research Associate,2025-08-03,On Leave
+402,Aditya Reddy,6.0,Data Analyst,2021-04-04,Active
+403,Sneha Gowda,2.0,Software Engineer,2022-12-17,Resigned
+404,Rohan Gowda,8.0,Sales Executive,2020-04-07,On Leave
+405,Rohan Desai,12.0,Marketing Specialist,2019-07-17,Active
+406,Pooja Gupta,1.0,Support Executive,2020-07-13,Resigned
+407,Pooja Sharma,2.0,Team Lead,2021-09-14,Resigned
+408,Priya Patil,11.0,Data Analyst,2018-01-22,On Leave
+409,Meera Reddy,11.0,Operations Associate,2023-05-10,Resigned
+410,Ishaan Shetty,6.0,Marketing Specialist,2025-03-30,Active
+411,Vivaan Naik,10.0,Sales Executive,2024-01-01,Resigned
+412,,7.0,Data Analyst,2018-05-29,Active
+413,Priya Pawar,12.0,Marketing Specialist,2018-06-03,Active
+414,Sneha Khan,10.0,Accountant,2021-10-04,Active
+415,Rahul Naik,9.0,Support Executive,2023-07-17,Active
+416,Rahul Shetty,4.0,Accountant,2021-09-16,Active
+417,Rahul Naik,5.0,Data Analyst,2018-02-27,Resigned
+418,Arjun Shetty,10.0,Sales Executive,2019-12-20,On Leave
+419,Aditya Reddy,9.0,Software Engineer,2018-12-22,Active
+420,Ananya Pawar,3.0,Operations Associate,2021-08-18,Active
+421,Aarav Shetty,7.0,Sales Executive,2023-01-04,Active
+422,Arjun Shetty,10.0,Research Associate,2018-02-16,Active
+423,Kavya Gowda,4.0,HR Executive,2025-06-28,Active
+424,Rahul Shetty,3.0,Team Lead,2025-09-11,
+425,Sneha Gowda,2.0,Marketing Specialist,2022-02-14,On Leave
+426,Pooja Gupta,3.0,Operations Associate,2019-09-20,Active
+427,Kavya Reddy,12.0,Support Executive,2023-04-13,On Leave
+428,Ishaan Gupta,11.0,Research Associate,2018-12-02,On Leave
+429,Rahul Desai,12.0,Software Engineer,2018-11-16,On Leave
+430,Ananya Sharma,9.0,Support Executive,2020-04-08,On Leave
+431,Kabir Pawar,6.0,Support Executive,2022-12-15,Active
+432,Ishaan Gowda,10.0,Operations Associate,2019-01-08,On Leave
+433,Rahul Sharma,8.0,Data Analyst,2023-10-04,Active
+434,Rahul Khan,1.0,Support Executive,2023-03-09,Resigned
+435,Sneha Gowda,1.0,Team Lead,2020-11-08,Active
+436,Ishaan Khan,2.0,HR Executive,2022-10-02,Active
+437,Vivaan Desai,1.0,Accountant,2023-04-18,Active
+438,Sneha Reddy,3.0,Data Analyst,2026-08-03,Resigned
+439,Nisha Kulkarni,7.0,Operations Associate,2022-03-27,Active
+440,Vivaan Naik,11.0,Support Executive,2019-06-29,Resigned
+441,Kavya Patil,3.0,Support Executive,2022-05-29,On Leave
+442,Kabir Gowda,4.0,HR Executive,2026-06-25,Active
+443,Sneha Joshi,11.0,Support Executive,2022-10-04,On Leave
+444,Aditya Gupta,4.0,Operations Associate,2021-11-18,Active
+445,Rohan Gupta,12.0,Accountant,2018-05-12,Resigned
+446,Nisha Khan,1.0,Sales Executive,2020-04-24,Active
+447,Ananya Khan,1.0,Operations Associate,2024-09-14,Resigned
+448,Diya Gupta,12.0,HR Executive,2022-07-06,Active
+449,Pooja Desai,4.0,HR Executive,2019-07-28,On Leave
+450,Sneha Gupta,12.0,Research Associate,2021-07-30,On Leave
+451,Arjun Gupta,5.0,Data Analyst,2025-05-28,On Leave
+452,Pooja Reddy,5.0,Marketing Specialist,2018-09-07,On Leave
+453,Meera Naik,11.0,Team Lead,2024-03-26,Active
+454,Diya Kulkarni,11.0,Team Lead,2023-11-19,Active
+455,Nisha Reddy,3.0,Marketing Specialist,2022-03-22,Active
+456,Priya Gupta,4.0,Marketing Specialist,2025-12-08,Active
+457,Rahul Sharma,9.0,Team Lead,2022-09-03,On Leave
+458,Kabir Reddy,4.0,Marketing Specialist,2020-04-12,Active
+459,Vivaan Joshi,6.0,Accountant,2024-01-03,Resigned
+460,Ishaan Sharma,5.0,Team Lead,2025-07-22,On Leave
+461,Diya Patil,4.0,Research Associate,2026-02-14,Resigned
+462,Ishaan Joshi,4.0,Software Engineer,2021-05-26,Active
+463,Ishaan Gupta,12.0,Accountant,2026-05-18,Active
+464,Pooja Gowda,10.0,Sales Executive,2022-06-13,Active
+465,Arjun Shetty,7.0,Operations Associate,2023-12-26,Resigned
+466,Kavya Shetty,5.0,Software Engineer,2023-10-02,Active
+467,Rahul Patil,12.0,Operations Associate,2026-07-17,Active
+468,Ishaan Kulkarni,6.0,Team Lead,2018-07-07,On Leave
+469,Pooja Gowda,3.0,,2020-12-04,On Leave
+470,Nisha Shetty,3.0,Sales Executive,2021-09-13,Active
+471,Aditya Khan,4.0,Operations Associate,2024-03-05,Resigned
+472,Arjun Shetty,8.0,Operations Associate,2023-03-03,Active
+473,Kavya Pawar,3.0,Support Executive,2023-06-24,Active
+474,Diya Desai,1.0,Accountant,2025-06-30,Active
+475,Aarav Reddy,3.0,Sales Executive,2018-10-06,Resigned
+476,Kabir Sharma,4.0,Support Executive,2023-02-11,Active
+477,Diya Khan,11.0,Research Associate,2023-06-03,Resigned
+478,Priya Sharma,1.0,Support Executive,2024-03-09,Active
+479,Aarav Sharma,9.0,Marketing Specialist,2024-01-04,Active
+480,Aarav Desai,12.0,Team Lead,2020-01-05,Active
+481,Ananya Desai,3.0,Sales Executive,2020-02-26,On Leave
+482,Rohan Kulkarni,5.0,Team Lead,2018-11-20,Active
+483,Aditya Joshi,10.0,Sales Executive,2025-10-26,Active
+484,Sneha Naik,2.0,HR Executive,2019-01-18,Active
+485,Aditya Reddy,9.0,Operations Associate,2018-08-18,Resigned
+486,Aarav Gowda,3.0,Accountant,2023-08-10,Active
+487,Arjun Khan,2.0,Support Executive,2018-06-24,Active
+488,Ishaan Gowda,10.0,Operations Associate,2021-01-15,Active
+489,Vivaan Naik,5.0,Support Executive,2024-04-27,Resigned
+490,Diya Pawar,6.0,HR Executive,2020-04-28,On Leave
+491,Kabir Gowda,7.0,Accountant,2021-05-10,Active
+492,Pooja Khan,7.0,Support Executive,2021-09-20,Active
+493,Kabir Gowda,12.0,Accountant,2023-08-14,Resigned
+494,Kavya Sharma,2.0,Team Lead,2020-08-08,Active
+495,Arjun Khan,10.0,Research Associate,2022-06-13,Active
+496,Aarav Naik,5.0,Operations Associate,2023-07-03,Active
+497,Kavya Desai,7.0,Team Lead,2020-01-31,Resigned
+498,Aditya Patil,10.0,Marketing Specialist,2020-10-06,Resigned
+499,Vivaan Patil,5.0,Data Analyst,2022-04-06,Resigned
+500,Kabir Gowda,7.0,Software Engineer,2022-01-17,Active
+501,Vivaan Sharma,5.0,Operations Associate,2022-01-14,Active
+502,Ananya Pawar,2.0,Data Analyst,2022-11-01,Active
+503,Nisha Patil,1.0,Accountant,2021-12-20,On Leave
+504,Vivaan Khan,10.0,Software Engineer,2022-04-27,Active
+505,Sneha Reddy,7.0,Accountant,2026-02-16,On Leave
+506,Pooja Khan,9.0,Data Analyst,2025-09-08,Active
+507,Meera Pawar,5.0,Marketing Specialist,2021-01-04,Active
+508,Kabir Patil,3.0,Team Lead,2021-02-04,Active
+509,Sneha Joshi,2.0,Software Engineer,2020-10-27,Active
+510,Priya Khan,10.0,Sales Executive,2023-02-19,Active
+511,Kabir Shetty,1.0,Team Lead,2021-09-22,On Leave
+512,Aditya Kulkarni,8.0,Software Engineer,2022-10-30,Resigned
+513,Kabir Shetty,6.0,Research Associate,2025-10-18,Active
+514,,3.0,Team Lead,2021-07-31,Active
+515,Priya Khan,4.0,Software Engineer,2022-03-21,Active
+516,Aditya Kulkarni,2.0,Research Associate,2020-03-29,On Leave
+517,Meera Naik,9.0,HR Executive,2026-02-26,Active
+518,Ishaan Joshi,5.0,Accountant,2022-08-03,Resigned
+519,Priya Pawar,11.0,Marketing Specialist,2020-09-18,Active
+520,Kabir Gowda,7.0,Team Lead,2018-10-30,Active
+521,Priya Khan,7.0,Support Executive,2023-09-07,Resigned
+522,,1.0,Software Engineer,2025-11-13,On Leave
+523,Vivaan Patil,4.0,Software Engineer,2019-11-13,
+524,Diya Khan,11.0,Team Lead,2026-06-10,Active
+525,Nisha Patil,1.0,Accountant,2020-11-25,Active
+526,Pooja Joshi,6.0,Team Lead,2023-03-12,Resigned
+527,Kabir Kulkarni,1.0,Operations Associate,2019-03-05,Active
+528,Nisha Patil,2.0,Data Analyst,,Active
+529,Arjun Joshi,4.0,Support Executive,2023-06-02,Active
+530,Priya Patil,8.0,Operations Associate,2021-07-30,Active
+531,Sneha Sharma,12.0,Accountant,2018-04-03,Active
+532,Ananya Naik,3.0,Sales Executive,2023-10-15,Active
+533,Meera Kulkarni,9.0,Team Lead,2023-03-08,Active
+534,Aditya Naik,3.0,Data Analyst,2025-03-08,Resigned
+535,Nisha Reddy,1.0,Research Associate,2020-03-19,Active
+536,Nisha Reddy,1.0,Sales Executive,2020-04-22,Active
+537,Vivaan Khan,2.0,Support Executive,2020-02-05,Active
+538,Arjun Gupta,8.0,Accountant,2020-12-10,
+539,Priya Desai,11.0,Software Engineer,2024-09-11,Active
+540,Aditya Khan,2.0,Software Engineer,2021-12-12,Active
+541,Meera Naik,12.0,Marketing Specialist,2024-11-21,On Leave
+542,Vivaan Naik,3.0,Software Engineer,2019-04-28,Active
+543,Sneha Patil,3.0,Software Engineer,2025-10-11,Active
+544,Aditya Reddy,10.0,Data Analyst,2024-06-12,Active
+545,Nisha Pawar,8.0,Support Executive,2025-10-11,Resigned
+546,Meera Desai,3.0,Operations Associate,2021-03-29,Active
+547,Meera Kulkarni,8.0,Research Associate,2018-08-08,Active
+548,Aarav Joshi,3.0,Sales Executive,2022-04-22,On Leave
+549,Priya Reddy,11.0,Operations Associate,2022-08-30,Resigned
+550,Rahul Joshi,3.0,Accountant,2024-05-04,Active
+551,Pooja Shetty,1.0,Marketing Specialist,2020-07-09,On Leave
+552,Sneha Pawar,8.0,Research Associate,2026-04-30,Active
+553,Ananya Khan,2.0,Marketing Specialist,2026-09-10,On Leave
+554,Kavya Desai,1.0,Operations Associate,2024-02-16,Active
+555,Nisha Patil,12.0,Sales Executive,2021-05-04,Active
+556,Rahul Shetty,6.0,Accountant,,Active
+557,Pooja Gupta,12.0,Research Associate,2025-09-23,Active
+558,Nisha Pawar,10.0,Data Analyst,2020-04-26,Active
+559,Diya Khan,6.0,Support Executive,2021-02-25,On Leave
+560,Meera Kulkarni,12.0,Marketing Specialist,2021-03-31,On Leave
+561,Rohan Desai,11.0,Accountant,2019-07-10,Active
+562,Diya Shetty,11.0,Data Analyst,2025-11-13,Active
+563,Pooja Pawar,,Software Engineer,2020-10-10,Resigned
+564,Aditya Joshi,3.0,Research Associate,2025-02-03,Active
+565,Nisha Reddy,8.0,Accountant,2025-02-08,Active
+566,Aditya Desai,12.0,Marketing Specialist,2025-10-16,Active
+567,Rahul Joshi,6.0,Research Associate,2018-01-11,Resigned
+568,Vivaan Gowda,8.0,Software Engineer,2018-09-17,On Leave
+569,Aditya Gupta,7.0,Sales Executive,2023-07-20,Active
+570,Arjun Shetty,6.0,Support Executive,2024-06-25,Active
+571,Priya Kulkarni,11.0,HR Executive,2018-07-08,Active
+572,Rahul Sharma,2.0,Data Analyst,2022-12-13,Active
+573,Aarav Reddy,4.0,Data Analyst,2025-04-16,Active
+574,Meera Shetty,2.0,Software Engineer,2020-10-22,Active
+575,Kavya Naik,11.0,Data Analyst,2018-08-01,Active
+576,Sneha Gowda,12.0,Sales Executive,2022-10-25,Resigned
+577,Vivaan Gowda,2.0,HR Executive,2020-05-24,Active
+578,Vivaan Pawar,10.0,Sales Executive,2023-10-29,Resigned
+579,Rahul Sharma,1.0,Software Engineer,2019-05-09,Active
+580,Kabir Joshi,2.0,Sales Executive,2022-04-19,Active
+581,Ananya Patil,6.0,Software Engineer,2021-05-10,Active
+582,Aditya Pawar,11.0,Data Analyst,2018-10-08,On Leave
+583,Aarav Khan,11.0,Data Analyst,2022-12-08,Active
+584,Ishaan Naik,12.0,Data Analyst,2022-08-14,On Leave
+585,Rahul Gupta,2.0,Accountant,2019-07-28,Active
+586,Aditya Kulkarni,7.0,Software Engineer,2019-07-27,Active
+587,Rohan Naik,2.0,,2024-03-16,On Leave
+588,Sneha Gowda,1.0,Marketing Specialist,2020-04-21,On Leave
+589,Ishaan Gowda,7.0,Marketing Specialist,2025-03-31,Active
+590,Pooja Joshi,7.0,Accountant,2020-09-14,Active
+591,Vivaan Desai,1.0,Software Engineer,2021-07-20,Active
+592,Aditya Khan,7.0,Software Engineer,2024-02-16,Resigned
+593,Meera Joshi,2.0,HR Executive,2024-08-02,Active
+594,Aarav Shetty,4.0,HR Executive,2018-09-05,Active
+595,Sneha Naik,12.0,Support Executive,2026-08-09,Active
+596,Nisha Gowda,7.0,Accountant,2025-03-08,On Leave
+597,Kabir Shetty,2.0,Marketing Specialist,2018-11-20,On Leave
+598,Ishaan Pawar,9.0,Software Engineer,2022-05-20,On Leave
+599,Vivaan Shetty,12.0,Team Lead,2026-03-09,Active
+600,Diya Gupta,2.0,Team Lead,2019-04-21,Active
+601,Diya Shetty,11.0,Data Analyst,2019-05-05,Active
+602,Kabir Gowda,1.0,Data Analyst,2023-07-27,Active
+603,Rohan Pawar,6.0,,2026-05-30,Active
+604,Ananya Sharma,6.0,,2021-01-19,On Leave
+605,Vivaan Shetty,12.0,Research Associate,2025-01-14,Active
+606,Priya Joshi,9.0,Software Engineer,2018-08-16,Active
+607,Meera Kulkarni,3.0,Marketing Specialist,2026-09-03,Active
+608,Ananya Gupta,12.0,Support Executive,2018-01-11,Active
+609,Aarav Gupta,1.0,Operations Associate,2022-01-30,Active
+610,Kabir Pawar,1.0,Support Executive,2026-01-03,Resigned
+611,Nisha Gupta,6.0,Sales Executive,2022-09-01,Resigned
+612,Arjun Shetty,2.0,Research Associate,2022-03-08,Active
+613,Diya Pawar,4.0,,2018-07-08,Active
+614,Vivaan Joshi,5.0,Marketing Specialist,2021-09-02,Active
+615,Rahul Sharma,6.0,Sales Executive,2021-04-09,On Leave
+616,Sneha Gowda,10.0,Sales Executive,2023-03-16,Active
+617,Priya Gupta,12.0,Support Executive,2026-07-12,Active
+618,Kabir Sharma,7.0,HR Executive,2020-08-12,On Leave
+619,Kavya Naik,12.0,HR Executive,2021-10-04,Active
+620,Aditya Gowda,12.0,Marketing Specialist,2019-03-02,Active
+621,Pooja Reddy,8.0,HR Executive,2019-08-07,Resigned
+622,Rohan Patil,1.0,Sales Executive,2023-10-30,Active
+623,Kavya Joshi,12.0,Accountant,2024-07-06,Active
+624,Kabir Naik,7.0,Accountant,2024-08-21,On Leave
+625,Diya Reddy,11.0,Data Analyst,2020-08-27,Active
+626,Rohan Kulkarni,7.0,Software Engineer,2021-07-26,Active
+627,,2.0,Sales Executive,2019-07-12,On Leave
+628,Ananya Pawar,2.0,Data Analyst,2023-01-16,Active
+629,Arjun Reddy,2.0,Support Executive,2022-01-07,Active
+630,Rahul Shetty,8.0,Marketing Specialist,2019-05-07,Active
+631,Meera Naik,5.0,Research Associate,2018-06-15,Active
+632,Arjun Pawar,2.0,Sales Executive,2021-12-28,Active
+633,Diya Naik,5.0,Marketing Specialist,2019-12-14,Active
+634,Aditya Joshi,9.0,Support Executive,2020-10-20,Active
+635,Rahul Patil,3.0,Accountant,2018-02-18,Active
+636,Pooja Pawar,4.0,Team Lead,2022-03-05,Resigned
+637,Vivaan Khan,10.0,Marketing Specialist,2018-11-04,Active
+638,Vivaan Gupta,11.0,Operations Associate,2019-06-12,Active
+639,Arjun Patil,1.0,Operations Associate,2018-07-27,
+640,Nisha Gowda,7.0,Operations Associate,2018-05-01,Active
+641,Nisha Pawar,6.0,Sales Executive,2020-02-06,Active
+642,Rohan Joshi,3.0,HR Executive,2024-11-20,On Leave
+643,Pooja Naik,5.0,Operations Associate,2022-08-15,On Leave
+644,Priya Sharma,2.0,Marketing Specialist,2022-04-18,Active
+645,Nisha Gupta,11.0,Support Executive,2020-10-17,Resigned
+646,Aarav Reddy,12.0,Software Engineer,2023-05-19,On Leave
+647,Priya Kulkarni,10.0,Support Executive,2021-08-10,Active
+648,Rohan Pawar,1.0,Software Engineer,2024-09-11,Active
+649,Aarav Shetty,1.0,Operations Associate,2023-12-09,Active
+650,Pooja Pawar,2.0,Sales Executive,2025-05-14,Active
+651,Rohan Desai,12.0,HR Executive,2026-07-27,Active
+652,Aditya Kulkarni,3.0,Data Analyst,2020-08-26,On Leave
+653,Arjun Gowda,12.0,Software Engineer,2024-08-20,Active
+654,Kavya Khan,10.0,Data Analyst,2024-04-25,Active
+655,Priya Desai,5.0,Data Analyst,2023-07-02,Active
+656,Vivaan Sharma,4.0,Research Associate,2020-06-15,Active
+657,Priya Sharma,6.0,Research Associate,2020-04-05,Active
+658,Arjun Gowda,3.0,Software Engineer,2018-09-01,Active
+659,Kabir Khan,12.0,Data Analyst,2026-09-07,Active
+660,Kavya Patil,6.0,Team Lead,2024-07-28,Active
+661,,6.0,Data Analyst,2019-10-08,Resigned
+662,Nisha Naik,8.0,Software Engineer,2019-12-15,Resigned
+663,Kavya Gupta,11.0,Research Associate,2019-12-20,Active
+664,Sneha Gowda,12.0,Marketing Specialist,2019-06-06,Active
+665,Aarav Gowda,10.0,Team Lead,2026-08-24,On Leave
+666,Diya Pawar,10.0,Software Engineer,2024-11-09,Active
+667,Ananya Joshi,3.0,Software Engineer,,Active
+668,Pooja Kulkarni,6.0,Data Analyst,2025-02-18,Active
+669,Arjun Joshi,1.0,Marketing Specialist,2020-05-08,Active
+670,Vivaan Kulkarni,5.0,Accountant,2026-01-29,Active
+671,Diya Reddy,8.0,Team Lead,2019-11-13,Active
+672,Priya Reddy,6.0,Support Executive,2022-03-18,Active
+673,Priya Khan,11.0,Sales Executive,2019-10-29,Active
+674,Vivaan Sharma,5.0,HR Executive,2021-07-29,Active
+675,Ananya Patil,6.0,Data Analyst,2022-03-18,Active
+676,Vivaan Desai,2.0,Software Engineer,2024-08-30,On Leave
+677,Priya Gowda,1.0,Team Lead,2025-05-01,Active
+678,Nisha Pawar,1.0,Accountant,2021-09-18,Active
+679,,12.0,Support Executive,2026-02-05,Resigned
+680,Rohan Naik,5.0,Marketing Specialist,2020-08-30,Active
+681,Diya Reddy,10.0,Support Executive,2023-07-04,Active
+682,Diya Kulkarni,1.0,Team Lead,2018-12-25,Active
+683,Priya Gupta,2.0,HR Executive,2020-04-27,Active
+684,Sneha Patil,8.0,Accountant,2021-06-17,Active
+685,Priya Joshi,11.0,Marketing Specialist,2019-01-09,Resigned
+686,Aditya Pawar,,Team Lead,2022-02-22,Active
+687,Rahul Sharma,5.0,Operations Associate,2023-03-20,Active
+688,Pooja Shetty,10.0,HR Executive,2019-09-12,Resigned
+689,Ananya Patil,11.0,Software Engineer,2024-01-27,Active
+690,Pooja Desai,1.0,Team Lead,2023-11-11,Active
+691,Priya Khan,4.0,Operations Associate,2021-05-09,Active
+692,Aditya Gowda,1.0,Support Executive,2024-05-28,On Leave
+693,Kabir Patil,,Data Analyst,2019-11-16,Active
+694,Ishaan Pawar,1.0,Team Lead,2018-11-17,Resigned
+695,Nisha Gupta,11.0,Data Analyst,2024-09-03,Active
+696,Arjun Gowda,2.0,Accountant,2022-05-09,On Leave
+697,Aditya Desai,6.0,Marketing Specialist,2023-10-30,Active
+698,Aarav Gowda,10.0,Research Associate,2023-11-11,Active
+699,Ananya Reddy,3.0,Data Analyst,2024-05-09,On Leave
+700,Ananya Patil,10.0,Accountant,2021-03-17,On Leave
+701,Kavya Reddy,5.0,Team Lead,2025-05-06,Active
+702,Priya Sharma,3.0,Marketing Specialist,2022-07-09,Active
+703,Aditya Sharma,7.0,Software Engineer,2025-09-29,Active
+704,Diya Gowda,8.0,Marketing Specialist,2022-03-06,Active
+705,Arjun Shetty,5.0,Marketing Specialist,2023-07-07,Resigned
+706,Ananya Gupta,3.0,Marketing Specialist,2026-05-05,Active
+707,Arjun Shetty,12.0,Team Lead,2024-10-13,Resigned
+708,Vivaan Gupta,8.0,Sales Executive,2022-07-26,Resigned
+709,Priya Desai,6.0,HR Executive,2023-10-12,Active
+710,Vivaan Shetty,12.0,Support Executive,2022-07-11,Active
+711,Aarav Pawar,4.0,Sales Executive,2018-08-25,Active
+712,Diya Joshi,1.0,Software Engineer,2025-11-26,Active
+713,Rohan Kulkarni,8.0,Support Executive,2022-06-14,Resigned
+714,Ananya Naik,1.0,Sales Executive,2022-03-06,Active
+715,Rahul Pawar,8.0,Research Associate,2024-03-08,Active
+716,Kavya Pawar,5.0,Accountant,2021-03-13,Active
+717,Aditya Sharma,3.0,Research Associate,2026-09-30,Active
+718,Pooja Naik,4.0,Sales Executive,2021-01-07,Resigned
+719,Nisha Desai,1.0,HR Executive,2023-04-26,Active
+720,Meera Khan,1.0,Sales Executive,2020-10-30,On Leave
+721,Sneha Gowda,12.0,Marketing Specialist,2022-10-02,Active
+722,Kavya Joshi,5.0,Sales Executive,2023-03-27,Active
+723,Aditya Khan,2.0,HR Executive,2023-09-27,Resigned
+724,Kavya Desai,11.0,Research Associate,2024-10-30,Active
+725,Sneha Naik,2.0,Operations Associate,2018-09-19,Active
+726,Rohan Naik,6.0,Marketing Specialist,2020-12-05,Resigned
+727,Sneha Gupta,3.0,Support Executive,2026-08-02,Active
+728,Diya Khan,7.0,Software Engineer,2025-08-20,Active
+729,Aarav Naik,8.0,Marketing Specialist,2020-11-28,Active
+730,Aditya Reddy,,HR Executive,2024-07-16,Resigned
+731,Ishaan Kulkarni,12.0,Sales Executive,2025-09-12,On Leave
+732,Priya Naik,6.0,Support Executive,2021-05-14,Active
+733,Meera Shetty,2.0,Operations Associate,2019-06-09,Resigned
+734,Rohan Gowda,9.0,Data Analyst,2025-08-16,Active
+735,Vivaan Gupta,6.0,Sales Executive,2026-05-07,Active
+736,Nisha Kulkarni,6.0,Marketing Specialist,2024-07-26,Active
+737,Rahul Patil,8.0,HR Executive,2025-02-11,On Leave
+738,,4.0,Support Executive,2019-05-06,Resigned
+739,Aditya Desai,,Team Lead,2018-08-10,Active
+740,Kabir Gupta,6.0,Team Lead,2024-05-21,Active
+741,,12.0,Data Analyst,2026-09-26,Active
+742,Priya Kulkarni,11.0,Data Analyst,2021-07-07,Resigned
+743,Diya Sharma,8.0,Marketing Specialist,2020-05-07,Active
+744,Meera Joshi,2.0,Data Analyst,2024-11-21,Active
+745,Nisha Reddy,7.0,Operations Associate,2022-04-20,Active
+746,Diya Desai,4.0,Software Engineer,2018-02-27,Active
+747,Ishaan Sharma,11.0,HR Executive,2025-01-10,Resigned
+748,Pooja Gupta,12.0,Software Engineer,2021-07-02,Active
+749,Ananya Reddy,9.0,Research Associate,2021-06-07,Active
+750,Vivaan Sharma,5.0,Marketing Specialist,2023-02-11,Resigned
+751,Arjun Reddy,11.0,Data Analyst,,Active
+752,Kavya Gupta,3.0,Team Lead,2018-03-20,Active
+753,Pooja Gowda,3.0,Sales Executive,2026-03-26,Active
+754,Meera Patil,6.0,HR Executive,2022-03-17,Resigned
+755,Rohan Desai,10.0,HR Executive,2024-08-29,Active
+756,Ananya Naik,1.0,HR Executive,2025-09-26,Active
+757,Nisha Joshi,7.0,Accountant,2024-02-20,Active
+758,Priya Gowda,3.0,Sales Executive,2025-10-18,Resigned
+759,Aarav Shetty,7.0,Accountant,2025-06-06,On Leave
+760,Rohan Khan,10.0,Data Analyst,2022-09-12,Active
+761,Ananya Shetty,2.0,Accountant,2023-08-01,Active
+762,Ishaan Shetty,9.0,Sales Executive,2022-01-06,Resigned
+763,Nisha Shetty,3.0,HR Executive,2024-02-24,Active
+764,Ishaan Gowda,8.0,Software Engineer,2020-08-18,Active
+765,Aarav Naik,2.0,Accountant,2024-06-09,Resigned
+766,Priya Pawar,2.0,Support Executive,2018-11-04,Resigned
+767,Ananya Shetty,11.0,Sales Executive,2023-02-14,Active
+768,Rohan Joshi,1.0,Accountant,2019-12-17,Active
+769,Sneha Kulkarni,11.0,Software Engineer,2022-10-11,Resigned
+770,Ananya Patil,1.0,HR Executive,2019-07-21,Resigned
+771,Meera Kulkarni,6.0,Operations Associate,2024-12-21,Active
+772,Vivaan Kulkarni,6.0,Data Analyst,2019-04-12,Active
+773,Aditya Joshi,5.0,Team Lead,2025-09-26,Active
+774,Nisha Naik,3.0,Accountant,2019-06-27,Resigned
+775,Diya Pawar,2.0,Team Lead,2024-08-16,Active
+776,Rahul Pawar,10.0,Team Lead,2026-09-27,Active
+777,Aarav Naik,12.0,Data Analyst,2023-06-02,Active
+778,Ananya Reddy,8.0,HR Executive,2018-09-17,Active
+779,Arjun Sharma,12.0,Support Executive,2026-08-10,Resigned
+780,Pooja Naik,6.0,Support Executive,2023-11-13,Resigned
+781,Ananya Reddy,11.0,Sales Executive,2023-05-28,Active
+782,Aditya Pawar,9.0,Research Associate,2018-08-12,Active
+783,Meera Desai,8.0,Operations Associate,2019-11-09,Active
+784,Priya Kulkarni,4.0,Software Engineer,2021-02-13,Active
+785,Pooja Desai,11.0,Team Lead,2022-07-10,Active
+786,Vivaan Joshi,8.0,Research Associate,2023-01-10,Active
+787,Priya Joshi,6.0,Accountant,2023-07-31,Resigned
+788,Aarav Patil,7.0,Team Lead,2018-05-27,On Leave
+789,Aarav Patil,10.0,Research Associate,2025-02-24,Active
+790,Ishaan Naik,11.0,Operations Associate,2021-10-28,Active
+791,Diya Gupta,8.0,Software Engineer,2024-04-13,On Leave
+792,Priya Gowda,11.0,Software Engineer,2026-01-11,Active
+793,Ananya Patil,11.0,Sales Executive,2018-01-09,Active
+794,Kavya Naik,5.0,Support Executive,2023-11-09,Active
+795,Ananya Sharma,3.0,Operations Associate,2019-07-30,Resigned
+796,Nisha Patil,5.0,,2020-03-13,Active
+797,Ananya Reddy,4.0,Operations Associate,2026-10-06,Active
+798,Arjun Patil,7.0,HR Executive,2025-02-06,Resigned
+799,Ananya Joshi,8.0,Research Associate,2023-08-28,Active
+800,Priya Sharma,9.0,HR Executive,2024-03-16,Active
+801,Priya Desai,3.0,Research Associate,2019-12-13,Resigned
+802,Kabir Patil,7.0,Research Associate,2024-10-18,Active
+803,Aditya Reddy,10.0,Sales Executive,2021-01-25,Active
+804,Arjun Shetty,8.0,Data Analyst,2019-07-20,Active
+805,Sneha Gowda,9.0,Software Engineer,2025-12-25,Resigned
+806,Ishaan Gupta,4.0,Research Associate,2026-01-05,Active
+807,Kavya Naik,3.0,Data Analyst,2023-08-26,On Leave
+808,Arjun Gowda,2.0,Software Engineer,2024-04-22,Active
+809,Nisha Naik,12.0,Support Executive,2021-03-17,Active
+810,Aarav Desai,2.0,HR Executive,2022-04-10,Active
+811,Diya Naik,1.0,Sales Executive,2020-12-29,Active
+812,Sneha Naik,5.0,Data Analyst,2018-09-12,Resigned
+813,Sneha Gupta,9.0,HR Executive,2022-01-09,Active
+814,Ananya Khan,11.0,Support Executive,2020-07-07,Resigned
+815,Aditya Gupta,9.0,Marketing Specialist,2025-10-09,Resigned
+816,Diya Reddy,7.0,Team Lead,2025-09-07,Active
+817,Diya Sharma,12.0,Marketing Specialist,2020-04-11,On Leave
+818,Rahul Gupta,11.0,Software Engineer,2026-06-20,On Leave
+819,Ishaan Gowda,4.0,Marketing Specialist,2023-01-13,Active
+820,Vivaan Pawar,3.0,Support Executive,2019-05-04,Active
+821,Diya Reddy,5.0,Support Executive,2020-12-18,Active
+822,Meera Khan,5.0,HR Executive,2021-09-15,Active
+823,Kabir Sharma,3.0,Software Engineer,2024-09-10,Active
+824,Sneha Joshi,10.0,Support Executive,2022-01-06,Active
+825,Arjun Desai,4.0,Data Analyst,2023-11-03,Active
+826,Meera Reddy,9.0,Support Executive,2022-07-11,Active
+827,Kavya Gupta,4.0,Software Engineer,2021-09-18,Active
+828,Sneha Gupta,10.0,Support Executive,2023-04-30,On Leave
+829,Aarav Patil,11.0,Software Engineer,2022-12-31,Active
+830,Pooja Sharma,11.0,Software Engineer,2022-04-12,Active
+831,Aditya Shetty,9.0,Marketing Specialist,2018-04-12,On Leave
+832,Kavya Desai,9.0,Operations Associate,2023-06-17,Active
+833,Sneha Naik,4.0,Software Engineer,2023-10-06,Active
+834,Ananya Pawar,9.0,Support Executive,2018-01-31,Resigned
+835,Vivaan Gupta,11.0,Sales Executive,2025-09-08,Active
+836,Ananya Gupta,9.0,Team Lead,2025-04-02,Active
+837,Kabir Sharma,8.0,Software Engineer,2018-06-05,Active
+838,Vivaan Sharma,3.0,Marketing Specialist,2024-04-04,Active
+839,Pooja Shetty,7.0,Team Lead,2023-01-22,Resigned
+840,Aditya Reddy,6.0,HR Executive,2022-05-15,Resigned
+841,Ananya Desai,1.0,Research Associate,2018-09-17,Resigned
+842,Diya Gowda,2.0,Software Engineer,2023-08-22,Active
+843,Sneha Naik,5.0,Research Associate,2018-12-21,Active
+844,Rahul Reddy,7.0,HR Executive,2023-04-26,Active
+845,Pooja Pawar,12.0,Team Lead,2024-02-14,Active
+846,Kabir Shetty,11.0,Software Engineer,2018-02-15,On Leave
+847,Kabir Patil,1.0,HR Executive,2024-06-03,On Leave
+848,Aditya Desai,9.0,Accountant,2021-06-02,Active
+849,Kavya Gupta,7.0,Support Executive,2019-08-07,Active
+850,Meera Gupta,10.0,Marketing Specialist,2020-03-06,Active
+851,Meera Naik,10.0,HR Executive,2026-06-04,On Leave
+852,Rahul Naik,9.0,Accountant,2021-04-05,Resigned
+853,Vivaan Shetty,2.0,Sales Executive,2026-02-20,On Leave
+854,Priya Kulkarni,6.0,Data Analyst,2025-07-12,Resigned
+855,Pooja Patil,5.0,Research Associate,2018-10-13,Active
+856,Arjun Joshi,8.0,Software Engineer,2024-11-29,Resigned
+857,Sneha Gowda,10.0,Data Analyst,2024-05-05,On Leave
+858,Kavya Kulkarni,7.0,Data Analyst,2018-01-20,Active
+859,Pooja Gupta,12.0,Team Lead,2021-02-07,Active
+860,Kabir Naik,12.0,Software Engineer,2023-05-20,Active
+861,Rahul Kulkarni,5.0,Operations Associate,2024-03-09,Active
+862,Meera Naik,10.0,Accountant,2021-02-23,Active
+863,Ishaan Shetty,12.0,Accountant,2026-02-27,Active
+864,Aarav Desai,11.0,HR Executive,2024-07-11,On Leave
+865,Aditya Khan,4.0,HR Executive,2024-03-09,Active
+866,Priya Naik,3.0,Software Engineer,2022-05-27,Active
+867,Sneha Pawar,8.0,Support Executive,2023-09-22,Active
+868,Aditya Kulkarni,9.0,HR Executive,2025-06-07,Active
+869,Meera Desai,3.0,Operations Associate,2019-10-15,Active
+870,Kabir Gowda,12.0,Operations Associate,2022-01-09,Active
+871,Pooja Joshi,4.0,Accountant,2020-12-18,Active
+872,Pooja Sharma,11.0,Sales Executive,2023-10-23,Active
+873,Aditya Joshi,8.0,HR Executive,2018-06-13,Resigned
+874,Arjun Patil,12.0,Support Executive,2025-02-08,Active
+875,Rohan Khan,9.0,Research Associate,2019-12-14,Active
+876,Aditya Kulkarni,10.0,Accountant,2023-10-18,Active
+877,Aditya Gupta,9.0,Team Lead,2021-12-16,Active
+878,Priya Joshi,10.0,HR Executive,2023-08-18,Active
+879,Rahul Pawar,4.0,Accountant,2023-10-09,Resigned
+880,Rohan Gupta,3.0,Data Analyst,2019-10-07,Active
+881,Ananya Naik,4.0,Team Lead,2021-09-14,Resigned
+882,Ananya Joshi,11.0,Operations Associate,2023-05-17,Active
+883,Meera Naik,7.0,HR Executive,2020-09-25,Active
+884,Kabir Khan,10.0,Data Analyst,2019-07-06,Resigned
+885,Diya Khan,3.0,HR Executive,2019-11-13,Active
+886,Meera Desai,7.0,Research Associate,2024-04-27,Resigned
+887,Aarav Gowda,12.0,Marketing Specialist,2018-12-18,Active
+888,Rahul Khan,8.0,Operations Associate,2019-11-30,Active
+889,Nisha Khan,3.0,Research Associate,2026-08-10,Active
+890,Rohan Pawar,12.0,Software Engineer,2023-02-01,On Leave
+891,Vivaan Gupta,7.0,Team Lead,2019-06-26,Active
+892,Aarav Gupta,9.0,Support Executive,2025-09-04,Active
+893,Kabir Khan,2.0,Data Analyst,2023-05-04,On Leave
+894,Diya Desai,9.0,Accountant,2019-01-17,Active
+895,Kabir Khan,9.0,HR Executive,2026-09-09,Resigned
+896,Nisha Desai,7.0,Software Engineer,2018-06-27,Resigned
+897,Nisha Gupta,8.0,Team Lead,2021-12-06,On Leave
+898,Ananya Reddy,3.0,Marketing Specialist,2023-05-09,Active
+899,Vivaan Shetty,10.0,Support Executive,2022-08-01,Active
+900,Ishaan Sharma,12.0,HR Executive,2024-06-25,On Leave
+901,Ananya Desai,1.0,Team Lead,2025-05-05,Active
+902,Arjun Reddy,6.0,Accountant,2019-09-26,Active
+903,Rohan Shetty,9.0,Team Lead,2024-05-01,Active
+904,Rohan Naik,7.0,Sales Executive,2022-08-20,On Leave
+905,Priya Pawar,6.0,Support Executive,2024-03-22,Active
+906,Rohan Shetty,10.0,Software Engineer,2026-09-07,Resigned
+907,Aditya Gowda,3.0,Accountant,2026-05-22,Active
+908,Rahul Gowda,3.0,Accountant,2020-05-28,On Leave
+909,Aditya Kulkarni,9.0,Research Associate,2025-10-26,Resigned
+910,Diya Pawar,7.0,HR Executive,2019-01-09,Active
+911,Priya Khan,7.0,Accountant,2018-09-20,Active
+912,Pooja Kulkarni,2.0,Research Associate,2018-06-04,Resigned
+913,Aditya Reddy,10.0,Support Executive,2021-03-19,Resigned
+914,Diya Pawar,11.0,Operations Associate,2022-12-04,Active
+915,Ishaan Naik,9.0,Marketing Specialist,2020-03-08,Active
+916,Pooja Khan,3.0,HR Executive,2022-01-13,Active
+917,Aarav Pawar,2.0,Marketing Specialist,2026-09-29,Active
+918,Kavya Naik,7.0,Team Lead,2024-07-28,Active
+919,Aarav Gowda,12.0,Accountant,2019-01-05,On Leave
+920,Sneha Gowda,9.0,Research Associate,2021-11-26,Active
+921,Rohan Gupta,10.0,Sales Executive,2023-02-06,Active
+922,Aarav Shetty,3.0,Team Lead,2023-09-05,Active
+923,Vivaan Desai,5.0,Software Engineer,2019-04-25,On Leave
+924,Rohan Desai,10.0,Marketing Specialist,2025-10-14,Active
+925,Aditya Khan,,Sales Executive,2026-06-30,Active
+926,Rahul Naik,8.0,Research Associate,2018-04-23,Active
+927,Ananya Shetty,2.0,Team Lead,2025-02-08,Active
+928,Pooja Kulkarni,7.0,Software Engineer,2023-10-17,On Leave
+929,Aarav Gowda,5.0,Sales Executive,2021-03-22,Active
+930,Aditya Naik,12.0,Software Engineer,2018-11-08,On Leave
+931,Meera Joshi,6.0,Software Engineer,2020-06-14,On Leave
+932,Rohan Pawar,12.0,Sales Executive,2023-08-06,Resigned
+933,Ishaan Gupta,12.0,Sales Executive,2020-12-23,Active
+934,Pooja Gupta,4.0,Research Associate,2021-12-29,Active
+935,Ananya Patil,2.0,Operations Associate,2024-11-19,Active
+936,Diya Joshi,6.0,Research Associate,2021-07-15,Active
+937,Rohan Joshi,3.0,Support Executive,2021-02-21,Active
+938,Pooja Khan,3.0,HR Executive,2023-11-24,Active
+939,Priya Desai,1.0,,2021-11-23,Active
+940,Meera Joshi,2.0,Support Executive,2023-02-28,Active
+941,Aarav Sharma,11.0,Sales Executive,2022-04-04,On Leave
+942,Ananya Kulkarni,6.0,Research Associate,2020-11-29,Active
+943,Rohan Gupta,5.0,Operations Associate,2024-11-16,Active
+944,Kavya Pawar,8.0,Team Lead,2020-05-12,Active
+945,Kavya Kulkarni,7.0,Marketing Specialist,2023-01-21,Active
+946,Kabir Khan,11.0,Sales Executive,2019-02-14,Resigned
+947,Rohan Gupta,9.0,Team Lead,2022-04-10,Active
+948,Kabir Gowda,3.0,Operations Associate,2018-02-09,Active
+949,Nisha Joshi,3.0,Support Executive,2023-12-28,Resigned
+950,Arjun Joshi,5.0,Marketing Specialist,2024-04-21,On Leave
+951,Diya Reddy,2.0,Data Analyst,2018-09-03,Active
+952,Rohan Joshi,11.0,Accountant,2023-01-17,Resigned
+953,Arjun Shetty,6.0,Software Engineer,2024-04-14,On Leave
+954,Rohan Kulkarni,1.0,Team Lead,2019-05-12,Active
+955,Ishaan Khan,10.0,Support Executive,2019-12-16,Active
+956,Kavya Kulkarni,11.0,Support Executive,2023-06-20,Resigned
+957,Rahul Patil,7.0,Research Associate,2021-03-19,Active
+958,Kabir Pawar,11.0,Software Engineer,2022-09-24,Resigned
+959,Aditya Patil,2.0,Data Analyst,2021-11-08,Active
+960,Arjun Kulkarni,11.0,Marketing Specialist,2025-12-19,Active
+961,Aditya Shetty,8.0,Software Engineer,2026-05-22,On Leave
+962,Rahul Reddy,3.0,Data Analyst,2018-04-05,Active
+963,Pooja Naik,5.0,Accountant,2020-05-12,Active
+964,Aditya Patil,2.0,Accountant,2023-04-23,On Leave
+965,Diya Sharma,7.0,Support Executive,2026-07-31,Active
+966,Ananya Shetty,10.0,Data Analyst,2018-12-12,Resigned
+967,Aditya Shetty,4.0,Sales Executive,2026-04-10,Active
+968,Rahul Naik,3.0,Data Analyst,2023-11-28,Active
+969,Aarav Sharma,11.0,Software Engineer,2021-08-25,Active
+970,Rahul Desai,5.0,Support Executive,2022-12-28,Active
+971,Meera Khan,10.0,Operations Associate,2025-01-28,Resigned
+972,Nisha Desai,11.0,Support Executive,2021-06-22,Active
+973,Priya Desai,4.0,Accountant,2022-12-15,Active
+974,Kavya Reddy,5.0,Data Analyst,2021-05-28,Active
+975,Aarav Desai,3.0,Software Engineer,2021-03-20,Active
+976,Aarav Gowda,8.0,Operations Associate,2021-05-12,Active
+977,Nisha Shetty,10.0,Sales Executive,2018-01-30,On Leave
+978,Kavya Gupta,7.0,Support Executive,2022-11-26,Active
+979,Pooja Pawar,12.0,Team Lead,2022-03-30,Active
+980,Rohan Patil,7.0,Sales Executive,2023-10-18,On Leave
+981,Rohan Shetty,11.0,Support Executive,2021-01-06,Active
+982,Ishaan Patil,3.0,Data Analyst,2021-04-01,Active
+983,Rahul Khan,8.0,Marketing Specialist,2025-11-09,On Leave
+984,Priya Gupta,6.0,,2019-09-16,Active
+985,Aarav Pawar,2.0,Marketing Specialist,2021-01-07,Active
+986,Rahul Gowda,1.0,Sales Executive,2019-01-05,Active
+987,Aarav Joshi,4.0,Software Engineer,2022-09-18,Active
+988,Priya Kulkarni,8.0,HR Executive,2021-09-14,Active
+989,Kabir Sharma,5.0,Team Lead,2018-10-20,On Leave
+990,Priya Pawar,4.0,Marketing Specialist,2022-04-12,Active
+991,Ananya Gowda,4.0,Team Lead,2026-08-25,Active
+992,Pooja Gowda,1.0,Sales Executive,2023-03-03,Resigned
+993,Ananya Desai,11.0,Sales Executive,2023-04-21,Active
+994,Sneha Kulkarni,3.0,HR Executive,2026-05-09,On Leave
+995,Ananya Shetty,8.0,Marketing Specialist,2020-03-24,Active
+996,Diya Naik,4.0,Accountant,2020-08-24,Resigned
+997,Nisha Kulkarni,1.0,Data Analyst,2021-02-04,On Leave
+998,Ananya Reddy,4.0,HR Executive,2018-06-22,On Leave
+999,Priya Gowda,10.0,Data Analyst,2022-03-02,Active
+1000,Pooja Pawar,8.0,Accountant,2025-09-10,On Leave
