@@ -1,3 +1,7 @@
+-- Total attendence records
+select COUNT(*) as total_attendence_records
+from attendence;
+
 -- Q8 Attendence summary
 select employee_id,
        COUNT(*) AS recorder_days,
