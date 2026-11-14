@@ -1,0 +1,18 @@
+-- Q8 Attendence summary
+select employee_id,
+       COUNT(*) AS recorder_days,
+       SUM(
+           CASE
+               WHEN attendence_status ='Present'
+               THEN  1 ELSE 0
+           END 
+           ) AS Present_days,
+       SUM(
+           CASE
+              WHEN attendence_status ='Absent'
+              THEN 1 ELSE 0
+           END
+           ) AS Absent_days
+FROM attendence
+GROUP BY employee_id
+ORDER BY employee_id;
