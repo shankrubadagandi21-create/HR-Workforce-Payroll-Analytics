@@ -38,3 +38,22 @@ SELECT
                    CURDATE()
               ) AS completed_year
 FROM employees;
+
+-- Q5 average tenure 
+SELECT 
+    round(AVG(DATEDIFF(CURDATE(),
+    hire_date)/365.25),2)
+      as average_tenure_years
+from employees
+WHERE employee_status ='active';
+
+-- Q6 department wise average tenure
+select d.department_name,
+      ROUND(AVG(DATEDIFF(CURDATE(),
+      e.hire_date)/365.25),2
+      )as average_tenure_years
+from employees e
+JOIN departments d ON e.department_id = d.department_id
+WHERE e.employee_status = 'active'
+GROUP BY d.department_name
+ORDER BY average_tenure_years desc;
